@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="missing-shortdesc-files">
+  <title>Files Missing <codeph>&lt;p class="shortdesc"&gt;</codeph> in ansible-2-6-navigation-ditamap</title>
+  <shortdesc>Analysis report identifying 22 out of 1,632 HTML files in the ansible-2-6-navigation-ditamap that are missing shortdesc elements.</shortdesc>
+  <refbody>
+    <section>
+      <title>Complete List</title>
+      <table frame="all" rowsep="1" colsep="1">
+        <tgroup cols="2">
+          <colspec colname="c1" colnum="1" colwidth="1*"/>
+          <colspec colname="c2" colnum="2" colwidth="1*"/>
+          <thead>
+            <row>
+              <entry>Title</entry>
+              <entry>Category</entry>
+            </row>
+          </thead>
+          <tbody>
+            <row>
+              <entry>Ansible Automation Platform Resource Operator</entry>
+              <entry>Install</entry>
+            </row>
+            <row>
+              <entry>Ansible Automation Platform patch release November 19, 2025</entry>
+              <entry>Whats New</entry>
+            </row>
+            <row>
+              <entry>Patch releases</entry>
+              <entry>Whats New</entry>
+            </row>
+            <row>
+              <entry>Configure the hashicorp.vault.kv1_secret module</entry>
+              <entry>Integrate</entry>
+            </row>
+            <row>
+              <entry>Fixed issues</entry>
+              <entry>Whats New</entry>
+            </row>
+            <row>
+              <entry>Removed features</entry>
+              <entry>Whats New</entry>
+            </row>
+            <row>
+              <entry>Known issues</entry>
+              <entry>Whats New</entry>
+            </row>
+            <row>
+              <entry>Ansible Automation Platform patch release October 16, 2025</entry>
+              <entry>Whats New</entry>
+            </row>
+            <row>
+              <entry>Ansible Automation Platform patch release October 6, 2025</entry>
+              <entry>Whats New</entry>
+            </row>
+            <row>
+              <entry>Ansible Automation Platform patch release November 5, 2025</entry>
+              <entry>Whats New</entry>
+            </row>
+            <row>
+              <entry>Understand authenticator mapping</entry>
+              <entry>Secure</entry>
+            </row>
+            <row>
+              <entry>Technology preview</entry>
+              <entry>Whats New</entry>
+            </row>
+            <row>
+              <entry>Delete an authenticator</entry>
+              <entry>Secure</entry>
+            </row>
+            <row>
+              <entry>Use case: AWS CloudTrail</entry>
+              <entry>Secure</entry>
+            </row>
+            <row>
+              <entry>New features and enhancements</entry>
+              <entry>Whats New</entry>
+            </row>
+            <row>
+              <entry>Deprecated features</entry>
+              <entry>Whats New</entry>
+            </row>
+            <row>
+              <entry>Ansible Automation Platform patch release December 10, 2025</entry>
+              <entry>Whats New</entry>
+            </row>
+            <row>
+              <entry>Changed features</entry>
+              <entry>Whats New</entry>
+            </row>
+            <row>
+              <entry>Ansible Automation Platform patch release October 28, 2025</entry>
+              <entry>Whats New</entry>
+            </row>
+            <row>
+              <entry>Install and configure the Ansible code bot</entry>
+              <entry>Develop</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </section>
+    <section>
+      <title>Summary by Category</title>
+      <ul>
+        <li><b>Release Notes</b> (general): 6 files</li>
+        <li><b>Release Notes &gt; Patch releases</b>: 6 files</li>
+        <li><b>Task/Procedure</b>: 3 files</li>
+        <li><b>Concept/Reference</b>: 3 files</li>
+        <li><b>Legal/Reference</b>: 1 file</li>
+        <li><b>Reference/Use Case</b>: 1 file</li>
+        <li><b>Task/Concept</b>: 1 file</li>
+        <li><b>Navigation/Index Page</b>: 1 file</li>
+      </ul>
+    </section>
+    <section>
+      <title>File Paths</title>
+      <p>All files are located in: <filepath>/Users/ntimpe/Desktop/ansible-2-6-navigation-ditamap/</filepath></p>
+    </section>
+    <section>
+      <title>Analysis Date</title>
+      <p>Generated: February 10, 2026</p>
+    </section>
+  </refbody>
+</reference>
