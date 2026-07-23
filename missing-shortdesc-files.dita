@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
 <reference id="missing-shortdesc-files">
-  <title>Files Missing <codeph>&lt;p class="shortdesc"&gt;</codeph> in ansible-2-6-navigation-ditamap</title>
+  <title>Totally different file</title>
   <shortdesc>Analysis report identifying 22 out of 1,632 HTML files in the ansible-2-6-navigation-ditamap that are missing shortdesc elements.</shortdesc>
   <refbody>
     <section>
@@ -104,6 +104,42 @@
     <section>
       <title>Summary by Category</title>
       <ul>
+        <li><b>Release Notes</b> (general): 6 files</li>
+        <li><b>Release Notes &gt; Patch releases</b>: 6 files</li>
+        <li><b>Task/Procedure</b>: 3 files</li>
+        <li><b>Concept/Reference</b>: 3 files</li>
+        <li><b>Legal/Reference</b>: 1 file</li>
+        <li><b>Reference/Use Case</b>: 1 file</li>
+        <li><b>Task/Concept</b>: 1 file</li>
+        <li><b>Navigation/Index Page</b>: 1 file</li>
+      </ul><ul>
+        <li><b>Release Notes</b> (general): 6 files</li>
+        <li><b>Release Notes &gt; Patch releases</b>: 6 files</li>
+        <li><b>Task/Procedure</b>: 3 files</li>
+        <li><b>Concept/Reference</b>: 3 files</li>
+        <li><b>Legal/Reference</b>: 1 file</li>
+        <li><b>Reference/Use Case</b>: 1 file</li>
+        <li><b>Task/Concept</b>: 1 file</li>
+        <li><b>Navigation/Index Page</b>: 1 file</li>
+      </ul><ul>
+        <li><b>Release Notes</b> (general): 6 files</li>
+        <li><b>Release Notes &gt; Patch releases</b>: 6 files</li>
+        <li><b>Task/Procedure</b>: 3 files</li>
+        <li><b>Concept/Reference</b>: 3 files</li>
+        <li><b>Legal/Reference</b>: 1 file</li>
+        <li><b>Reference/Use Case</b>: 1 file</li>
+        <li><b>Task/Concept</b>: 1 file</li>
+        <li><b>Navigation/Index Page</b>: 1 file</li>
+      </ul><ul>
+        <li><b>Release Notes</b> (general): 6 files</li>
+        <li><b>Release Notes &gt; Patch releases</b>: 6 files</li>
+        <li><b>Task/Procedure</b>: 3 files</li>
+        <li><b>Concept/Reference</b>: 3 files</li>
+        <li><b>Legal/Reference</b>: 1 file</li>
+        <li><b>Reference/Use Case</b>: 1 file</li>
+        <li><b>Task/Concept</b>: 1 file</li>
+        <li><b>Navigation/Index Page</b>: 1 file</li>
+      </ul><ul>
         <li><b>Release Notes</b> (general): 6 files</li>
         <li><b>Release Notes &gt; Patch releases</b>: 6 files</li>
         <li><b>Task/Procedure</b>: 3 files</li>
